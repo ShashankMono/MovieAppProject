@@ -1,0 +1,11 @@
+D:\monocept_c# learning\Assignment\MoviePorject\MovieAppLib\bin\Debug\net8.0\MovieAppLib.deps.json
+D:\monocept_c# learning\Assignment\MoviePorject\MovieAppLib\bin\Debug\net8.0\MovieAppLib.dll
+D:\monocept_c# learning\Assignment\MoviePorject\MovieAppLib\bin\Debug\net8.0\MovieAppLib.pdb
+D:\monocept_c# learning\Assignment\MoviePorject\MovieAppLib\obj\Debug\net8.0\MovieAppLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\monocept_c# learning\Assignment\MoviePorject\MovieAppLib\obj\Debug\net8.0\MovieAppLib.AssemblyInfoInputs.cache
+D:\monocept_c# learning\Assignment\MoviePorject\MovieAppLib\obj\Debug\net8.0\MovieAppLib.AssemblyInfo.cs
+D:\monocept_c# learning\Assignment\MoviePorject\MovieAppLib\obj\Debug\net8.0\MovieAppLib.csproj.CoreCompileInputs.cache
+D:\monocept_c# learning\Assignment\MoviePorject\MovieAppLib\obj\Debug\net8.0\MovieAppLib.dll
+D:\monocept_c# learning\Assignment\MoviePorject\MovieAppLib\obj\Debug\net8.0\refint\MovieAppLib.dll
+D:\monocept_c# learning\Assignment\MoviePorject\MovieAppLib\obj\Debug\net8.0\MovieAppLib.pdb
+D:\monocept_c# learning\Assignment\MoviePorject\MovieAppLib\obj\Debug\net8.0\ref\MovieAppLib.dll
